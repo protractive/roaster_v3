@@ -1,0 +1,12 @@
+{
+  "port": "/dev/ttyS0",
+  "baudrate": 9600,
+  "databits": 8,
+  "stopbits": 1,
+  "parity": "N",
+  "timeout_ms": 1000,
+  "slave": 1,
+  "scan_interval_ms": 1000,
+  "start_address": 0,
+  "quantity": 4
+}
